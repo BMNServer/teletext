@@ -1,0 +1,84 @@
+DS,inserter
+DE,Weathermap FI
+CT,25,T
+PN,16601
+SC,0001
+PS,c108
+OL,1,F  ILMATIETEEN LAITOS 15.8.   W^~}0    
+OL,2,D]GS[[TIEDOTUS KLO 17   ^W`t    !    
+OL,3,                         ^W+}00~7     
+OL,4,GGPilvist{. Ajoittain    ^Wku     
+OL,5,Gmahdollista kevytt{       ^Wu    
+OL,6,Gsadetta. Tuuli            ^Wj?    
+OL,7,Gkohtalaista. L{mp|tila    ^Wj5    
+OL,8,G13..23 astetta.           ^Wj    
+OL,9,DGEnimm{kseen selke{{,    ^Wj4   
+OL,10,Gpaikoin ohutta            ^WW+%   
+OL,11,Gpilvisyytt{. S{{ pysyy     ^WW    
+OL,12,Gkuivana. L{mp|tila 13..23 ^T ~W5   
+OL,13,Gastetta.                 ^T`~W   
+OL,14,                        ^T xW5  
+OL,15,                       ^WT~W0 
+OL,16,                       ^Wj 
+OL,17,                       ^Wj% 
+OL,18,                       ^Wj'  
+OL,19,                       ^Wj'   
+OL,20,                       ^Wj'    
+OL,21,                       ^W o'!     
+OL,22,                     ^Wg   '###         
+OL,23,
+OL,24,
+PN,16602
+SC,0002
+PS,c108
+OL,1,F  ILMATIETEEN LAITOS 15.8.   Q^~}0    
+OL,2,D]GHUOMISAAMUUN ASTI    ^Q`t    !    
+OL,3,                         ^Q+}00~7     
+OL,4,GGPilvist{. Ajoittain    ^Qku     
+OL,5,Gmahdollista kevytt{       ^Qu    
+OL,6,Gsadetta. Tuuli            ^Qj?    
+OL,7,Gkohtalaista. L{mp|tila    ^Qj5    
+OL,8,G16..22 astetta.           ^Qj    
+OL,9,DGEnimm{kseen selke{{,    ^QjT4   
+OL,10,Gpaikoin ohutta            ^WQ+T%   
+OL,11,Gpilvisyytt{. S{{ pysyy     ^WQT    
+OL,12,Gkuivana. L{mp|tila 16..22 ^Q ~5   
+OL,13,Gastetta.                 ^Q`~   
+OL,14,AGPilvist{ ja sadetta. ^Q xW5  
+OL,15,GAjoittain rankempaa   ^WQ~W0 
+OL,16,Gvesisadetta. Tuuli    ^Wj 
+OL,17,Gvoimistuu. L{mp|tila  ^Wj% 
+OL,18,G16..22 astetta.       ^WjT'  
+OL,19,                       ^WjT'   
+OL,20,                       ^WjT'    
+OL,21,                       ^W oT'!     
+OL,22,                     ^Wg   '#T#         
+OL,23,
+OL,24,
+PN,16603
+SC,0003
+PS,c108
+OL,1,F  ILMATIETEEN LAITOS 15.8.   W^~}0    
+OL,2,D]GYLIHUOMISEN S[[      ^W`t    !    
+OL,3,                         ^W+}00~7     
+OL,4,GGPilvist{. Ajoittain    ^Wku     
+OL,5,Gmahdollista kevytt{       ^Wu    
+OL,6,Gsadetta. Tuuli            ^Wj?    
+OL,7,Gkohtalaista. L{mp|tila    ^Wj5    
+OL,8,G12..19 astetta.           ^Wj    
+OL,9,DGPilvist{ ja sadetta.    ^TjW4   
+OL,10,GAjoittain rankempaa       ^WT+W%   
+OL,11,Gvesisadetta. Tuuli         ^WTW    
+OL,12,Gvoimistuu. L{mp|tila      ^T ~5   
+OL,13,G12..19 astetta.          ^T`~   
+OL,14,                        ^T xW5  
+OL,15,                       ^WT~W0 
+OL,16,                       ^TjW 
+OL,17,                       ^TjW% 
+OL,18,                       ^Tj'  
+OL,19,                       ^Tj'   
+OL,20,                       ^Tj'    
+OL,21,                       ^T o'!     
+OL,22,                     ^Tg   '###         
+OL,23,
+OL,24,

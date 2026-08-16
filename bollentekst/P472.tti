@@ -1,0 +1,70 @@
+PN,47201
+SC,0001
+CT,25,T
+PS,c008
+OL,0,        ECIMSBF472A1786804318
+OL,1,T]GEINDHOVEN VERTREKKEN/DEPARTURES 1/2
+OL,2,T]G
+OL,3,V
+OL,3,V]]DSofia (SOF)DBUZZ              E16:35
+OL,4,T
+OL,4,T]]FIbiza (IBZ)FTransavia         E16:45
+OL,5,V
+OL,5,V]]DCluj-Napoca (CLJ)DWizz Air Malta
+OL,6,T
+OL,6,T]]                               E16:00
+OL,7,V
+OL,7,V]]DAlicante (ALC)DTransavia      E16:05
+OL,8,T
+OL,8,T]]FSofia (SOF)FRyanair           E16:19
+OL,9,V
+OL,10,T
+OL,11,V
+OL,12,T
+OL,13,V
+OL,14,T
+OL,15,V
+OL,16,T
+OL,17,V
+OL,18,T
+OL,19,V
+OL,20,T
+OL,21,V
+OL,22,T
+OL,23,V
+OL,26,@kD@JpmkD@NpnlD@JpmlD@NpnmD@PpmmD@TpnoD@
+OL,26,AMpmoD@QpnpD@JpmpD@Npn
+PN,47202
+SC,0002
+CT,25,T
+PS,c008
+OL,0,        ECIMSBF472A1786804318
+OL,1,T]GEINDHOVEN AANKOMSTEN/ARRIVALS   2/2
+OL,2,T]G
+OL,3,V
+OL,3,V]]DArrecife (ACE)DTransavia      E11:05
+OL,4,T
+OL,4,T]]FKos (KGS)FTransavia           E14:05
+OL,5,V
+OL,5,V]]DBudapest (BUD)DWizz Air       E14:40
+OL,6,T
+OL,6,T]]FWroclaw (WRO)FWizz Air HungaryE14:50
+OL,7,V
+OL,8,T
+OL,9,V
+OL,10,T
+OL,11,V
+OL,12,T
+OL,13,V
+OL,14,T
+OL,15,V
+OL,16,T
+OL,17,V
+OL,18,T
+OL,19,V
+OL,20,T
+OL,21,V
+OL,22,T
+OL,23,V
+OL,26,@kD@MpmkD@QpnlD@HpmlD@LpnmD@MpmmD@QpnnD@
+OL,26,ALpmnD@Ppn

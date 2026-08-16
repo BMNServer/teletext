@@ -1,0 +1,20 @@
+DE,System status for VBIT
+DS,inserter
+SP,C:\Users\Max de Vos\Documents\bmn\STATICP899.tti
+PN,89900
+SC,0000
+PS,8000
+CT,20,T
+OL,26,@mDIROX
+OL,28,@@@@@Cu_@|wKpZA`UB_wLs_w}ww]_}_wM@@
+OL,0,        wxTED Header mpp        %H:%M.%S
+OL,1,T]GM-----  VBIT SYSTEM STATUS  -----    
+OL,2,TGb V                                   
+OL,4, Network    : %%%%%%%%%%%%%%n           
+OL,5, Temperature: %%%T C                    
+OL,6, Time/date  :%%%%%%%%%%%%timedate       
+OL,8, Version    : %%%%%V                    
+OL,10, De laatste versie van VBIT2 is 2.8.2   
+OL,11, Ga naar:                               
+OL,12,Bgithub.com/peterkvt80/vbit2/wikiGvoor  
+OL,13, meer informatie.                       

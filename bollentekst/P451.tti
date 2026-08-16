@@ -1,0 +1,49 @@
+PN,45101
+SC,0001
+CT,25,T
+PS,c008
+OL,0,        ECIMSBF451A1786804317
+OL,1,V Sh,,,,4V\,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,2,VSj    5 \Wh,(hhlh,          ZATERDAG
+OL,3,VS7k##7k \Wj#jjjsb{
+OL,4,VSo?//o? \W
+OL,5,VS"!  "!
+OL,6,V///////%
+OL,7,CFILES
+OL,8,GA10: afrit Amsterdam-Centrum     C10min
+OL,9,                                  C1.8km
+OL,10,GN280: Roermond-Oost         C9min 2.2km
+OL,11,GA12: knp. Oud-Dijk          C5min 2.1km
+OL,12,GA76: knp. Kunderberg        C4min 1.4km
+OL,13,GA1: Deventer-Oost           C3min 3.1km
+OL,14,GA1: knp. Eemnes                   C0min
+OL,15,GA8: knp. Coenplein naar de A10
+OL,16,Grichting Amersfoort               C0min
+OL,17,GA12: knp. Lunetten                C0min
+OL,18,GA27: Werkendam                    C0min
+OL,19,GA27: Industriegebied Avelingen    C0min
+OL,20,GA50: knp. Waterberg               C0min
+OL,21,GA50: knp. Beekbergen              C0min
+OL,23,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+PN,45102
+SC,0002
+CT,25,T
+PS,c008
+OL,0,        ECIMSBF451A1786804317
+OL,1,V Sh,,,,4V\,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+OL,2,VSj    5 \Wh,(hhlh,          ZATERDAG
+OL,3,VS7k##7k \Wj#jjjsb{
+OL,4,VSo?//o? \W
+OL,5,VS"!  "!
+OL,6,V///////%
+OL,7,CFILES
+OL,8,GA58: knp. Princeville             C0min
+OL,9,GA58: Etten-Leur-West              C0min
+OL,10,GN3: afrit Dordrecht-Centrum       C0min
+OL,11,GN3: Papendrecht                   C0min
+OL,12,GN48: Dedemsvaart                  C0min
+OL,13,GN48: knp. Hoogeveen               C0min
+OL,14,GN50: knp. Emmeloord               C0min
+OL,15,GN225: Maarsbergen                 C0min
+OL,16,GN225: Amerongen                   C0min
+OL,23,V,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,0 +1,180 @@
+PN,47401
+SC,0001
+CT,25,T
+PS,c008
+OL,0,        ECIMSBF474A1786804319
+OL,1,T]GMAASTRICHT VERTERKKEN/DEPARTURES 1/4
+OL,2,T]G
+OL,3,V
+OL,3,V]]DNewcastle (NCL)DSkywagon      E16:50
+OL,4,T
+OL,5,V
+OL,6,T
+OL,7,V
+OL,8,T
+OL,9,V
+OL,10,T
+OL,11,V
+OL,12,T
+OL,13,V
+OL,14,T
+OL,15,V
+OL,16,T
+OL,17,V
+OL,18,T
+OL,19,V
+OL,20,T
+OL,21,V
+OL,22,T
+OL,23,V
+OL,26,@kD@NpmkD@Rpn
+PN,47402
+SC,0002
+CT,25,T
+PS,c008
+OL,0,        ECIMSBF474A1786804319
+OL,1,T]GMAASTRICHT AANKOMSTEN/ARRIVALS   2/4
+OL,2,T]G
+OL,3,V
+OL,3,V]]DWest Palm Beach (PBI)DDarwin travel
+OL,4,T
+OL,4,T]]DTechnology                    E16:35
+OL,5,V
+OL,5,V]]DMiami (MIA)DAtlas Air         E16:55
+OL,6,T
+OL,6,T]]FLyon (LYS)FASL Group          E17:10
+OL,7,V
+OL,7,V]]DLushan (LUZ)DWizz Air Hungary E17:35
+OL,8,T
+OL,8,T]]FLyon (LYS)FASL Group          E17:45
+OL,9,V
+OL,9,V]]DKarlstad (KSD)DWestern Aircraft
+OL,10,T
+OL,10,T]]                               E18:00
+OL,11,V
+OL,11,V]]DTuzla (TZL)DWizz Air          E18:25
+OL,12,T
+OL,12,T]]FHamburg (HAM)FASL Group       E19:00
+OL,13,V
+OL,13,V]]DHamburg (HAM)DSkyWest AirlinesE20:00
+OL,14,T
+OL,14,T]]FDenham (QKD)FEgyptair         E20:10
+OL,15,V
+OL,15,V]]DMiami (MIA)DAtlas Air         E23:35
+OL,16,T
+OL,16,T]]FMiami (MIA)FTurkish Airlines   E2:50
+OL,17,V
+OL,17,V]]DAddis Ababa (ADD)DEthiopian Airlines
+OL,18,T
+OL,18,T]]                                E3:15
+OL,19,V
+OL,19,V]]DDublin (DUB)DZimex Aviation    E3:50
+OL,20,T
+OL,20,T]]FDublin (DUB)FZimex Aviation    E3:50
+OL,21,V
+OL,21,V]]DDublin (DUB)DZimex Aviation    E3:50
+OL,22,T
+OL,22,T]]FDublin (DUB)FZimex Aviation    E3:50
+OL,23,V
+OL,23,V]]DKatowice (KTW)DWizz Air        E6:30
+OL,26,@kD@TpmkD@XpnmD@JpmmD@NpnnD@IpmnD@MpnoD@
+OL,26,AKpmoD@OpnpD@IpmpD@MpnqD@MpmqD@QpnsD@Jpm
+OL,26,BsD@NpntD@LpmtD@PpnuD@LpmuD@PpnvD@KpmvD@
+OL,26,COpnwD@JpmwD@NpnxD@JpmxD@NpnyD@PpmyD@Tpn
+OL,26,D{D@Kpm{D@Opn|D@Kpm|D@Opn}D@Kpm}D@Opn~D@
+OL,26,EKpm~D@OpnD@MpmD@Qpn
+PN,47403
+SC,0003
+CT,25,T
+PS,c008
+OL,0,        ECIMSBF474A1786804319
+OL,1,T]GMAASTRICHT AANKOMSTEN/ARRIVALS   3/4
+OL,2,T]G
+OL,3,V
+OL,3,V]]DLiege (LGG)DASL Group          E8:45
+OL,4,T
+OL,4,T]]FGeneva (GVA)FTransportes Aereo E9:30
+OL,5,V
+OL,5,V]]DZurich (ZRH)DNordic Global Airlines
+OL,6,T
+OL,6,T]]                               E10:09
+OL,7,V
+OL,7,V]]DVenice (VCE)DASL Group        E10:10
+OL,8,T
+OL,8,T]]FLondon (STN)FTurkish Airlines E10:20
+OL,9,V
+OL,9,V]]DVenice (VCE)DASL Airlines Australia
+OL,10,T
+OL,10,T]]                               E10:30
+OL,11,V
+OL,11,V]]DNuremberg (NUE)DOTT Airlines  E12:02
+OL,12,T
+OL,12,T]]FTuzla (TZL)FWizz Air          E12:10
+OL,13,V
+OL,13,V]]DLondon (STN)DTurkish Airlines E12:55
+OL,14,T
+OL,14,T]]FDundee (DND)FSkywagon         E13:00
+OL,15,V
+OL,15,V]]DLeeds (LBA)DGaruda            E13:15
+OL,16,T
+OL,16,T]]FEssen (ESS)                   E13:30
+OL,17,V
+OL,17,V]]DBrest (BES)DDelta Air Lines   E14:00
+OL,18,T
+OL,18,T]]FGeneva (GVA)FQantas Airways   E14:00
+OL,19,V
+OL,19,V]]DRotterdam (RTM)DFlyDedicated  E14:00
+OL,20,T
+OL,20,T]]FSiegen (SGE)FASL Group        E16:00
+OL,21,V
+OL,21,V]]DBudel (QHB)DAir ChanganE9:47(Aug-14)
+OL,22,T
+OL,22,T]]FPodgorica (TGD)FWizz Air E18:06(Aug-
+OL,23,V
+OL,23,V]]                                 E13)
+OL,26,@kD@JpmkD@NpnlD@KpmlD@OpnmD@KpmmD@OpnoD@
+OL,26,AKpmoD@OpnpD@KpmpD@OpnqD@KpmqD@OpnsD@Npm
+OL,26,BsD@RpntD@JpmtD@NpnuD@KpmuD@OpnvD@KpmvD@
+OL,26,COpnwD@JpmwD@NpnxD@JpmxD@NpnyD@JpmyD@Npn
+OL,26,DzD@KpmzD@Opn{D@Npm{D@Rpn|D@Kpm|D@Opn}D@
+OL,26,EJpm}D@Npn}D@`pm}D@gpn~D@Npm~D@Rpn~D@cpm
+OL,26,FD@gpn
+PN,47404
+SC,0004
+CT,25,T
+PS,c008
+OL,0,        ECIMSBF474A1786804319
+OL,1,T]GMAASTRICHT AANKOMSTEN/ARRIVALS   4/4
+OL,2,T]G
+OL,3,V
+OL,3,V]]DWangerooge (AGE)DCondor  E18:02(Aug-
+OL,4,T
+OL,4,T]]                                 E13)
+OL,5,V
+OL,5,V]]DGeneva (GVA)DAeronaves Dominicanas
+OL,6,T
+OL,6,T]]                       E17:42(Aug-12)
+OL,7,V
+OL,7,V]]DPodgorica (TGD)DWizz Air E18:23(Aug-
+OL,8,T
+OL,8,T]]                                 E11)
+OL,9,V
+OL,9,V]]DCasablanca (CMN)DQuick Air Jet
+OL,10,T
+OL,10,T]]DCharter               E14:58(Aug-11)
+OL,11,V
+OL,12,T
+OL,13,V
+OL,14,T
+OL,15,V
+OL,16,T
+OL,17,V
+OL,18,T
+OL,19,V
+OL,20,T
+OL,21,V
+OL,22,T
+OL,23,V
+OL,26,@kD@OpmkD@SpnkD@cpmlD@gpnmD@KpmmD@OpnnD@
+OL,26,A`pmnD@gpnoD@NpmoD@RpnoD@cpmpD@gpnqD@Opm
+OL,26,BqD@SpnrD@`pmrD@gpn

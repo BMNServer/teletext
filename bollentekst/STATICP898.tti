@@ -1,0 +1,29 @@
+DE,Test Page
+PN,89800
+SC,0000
+PS,8000
+RE,0
+CT,20,T
+OL,1,01 o8NT         ACHARACTER SET          
+OL,2,02 o8NT                 
+OL,3,03 08NT FABCDEFGHIJKLMNOPQRSTUVWXYZ01234
+OL,4,04 oG1+ FABCDEFGHIJKLMNOPQRSTUVWXYZ01234
+OL,5,05 oG1+ Aabcdefghijklmnopqrstuvwxyz56789
+OL,6,06 oG1+ Aabcdefghijklmnopqrstuvwxyz56789
+OL,7,07 oG1+ B"#%&'()*+,`./:;<=>?            
+OL,8,08 o8NT B"#%&'()*+,`./:;<=>?            
+OL,9,09 o8NT                 
+OL,10,10 o8NT                                 
+OL,11,11 o8NTQ       &i 6) 4j   `>+t          
+OL,12,12 oG1+Q       (f =d -n$ x'  "m0        
+OL,13,13 oG1+Q       d: e:  j (q8##)p9        
+OL,14,14 oG1+                                 
+OL,15,15 oG1+ Wj############################5 
+OL,16,16 o8NTW j T]CT E S T  P A G I N A  \W5 
+OL,17,17 o8NTW j   EVerborgen Informatie W  5 
+OL,18,18 o8NTW j ^ZU########W########### Y  5 
+OL,19,19 o8NTW j   ]D   Hidden Text      \W 5 
+OL,20,20 oG1+^WjSVRTQUW5 
+OL,21,21 oG1+W "############################! 
+OL,22,22 oG1+       CMDubbele hoogte          
+OL,23,23 oG1+         D                       

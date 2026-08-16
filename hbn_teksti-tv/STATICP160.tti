@@ -1,0 +1,100 @@
+PN,16001
+SC,0001
+PS,8100
+RE,0
+CT,10,T
+OL,1,V |h4||4||4T]RppppppV`pp0(( (( Rpppppp  
+OL,2,VVn5~1j5T]RppppppVjup1'k5'k5Rpppppp  
+OL,3,V j5z5j5T]RppppppVhpz5w{5w{5Rpppppp  
+OL,4, V#"!##!#"!T/////////-,,.,,.,,./////////
+OL,5,MGKATSO TUOREIMMAT S[[ENNUSTEETC 161    
+OL,7,D---------------------------------------
+OL,8, GS[[ENNUSTEET C161                     
+OL,10, GS[[KARTTA    C166                     
+OL,12, GS[[ MERELL[  C168                     
+OL,13,                        V]S    `        
+OL,14, GS[[ ALUETAIN C169     V]S `  *   0    
+OL,15,                        V]S  !p||p"     
+OL,16,                        V]S$xt(   
+OL,17,                        T]              
+OL,18,                        T]W x}0         
+OL,19,                        T]Ql|}|$        
+OL,21,T]G   Tiedot: Ilmatieteen laitos        
+OL,22,W]DS[[KARTTA 166     S[[MERELL[  168    
+OL,23,A  P{{uutiset BUrheilu CTV Opas  FS{{   
+FL,101,300,500,160,8ff,8ff
+PN,16002
+SC,0002
+PS,8100
+RE,0
+CT,10,T
+OL,1, V|h4||4||4T]RppppppV`pp0(( (( Rpppppp  
+OL,2,VVn5~1j5T]RppppppVjup1'k5'k5Rpppppp  
+OL,3,V j5z5j5T]RppppppVhpz5w{5w{5Rpppppp  
+OL,4, V#"!##!#"!T/////////-,,.,,.,,./////////
+OL,5,MGTUOREMMAT MERI S[[N ENNUSTEETC168     
+OL,7,D---------------------------------------
+OL,8, GS[[ENNUSTEET C161                     
+OL,10, GS[[KARTTA    C166                     
+OL,12, GS[[ MERELL[  C168                     
+OL,13,                        V]S    `        
+OL,14, GS[[ ALUETAIN C169     V]S `  *   0    
+OL,15,                        V]S  !p||p"     
+OL,16,                        V]S$xt(   
+OL,17,                        T]              
+OL,18,                        T]W x}0         
+OL,19,                        T]Ql|}|$        
+OL,21,T]G   Tiedot: Ilmatieteen laitos        
+OL,22,W]DS[[KARTTA 166     S[[MERELL[  168    
+OL,23,A  P{{uutiset BUrheilu CTV Opas  FS{{   
+FL,101,300,500,160,1ff,1ff
+PN,16003
+SC,0003
+PS,8100
+RE,0
+CT,10,T
+OL,1,V |h4||4||4T]RppppppV`pp0(( (( Rpppppp  
+OL,2,VVn5~1j5T]RppppppVjup1'k5'k5Rpppppp  
+OL,3,V j5z5j5T]RppppppVhpz5w{5w{5Rpppppp  
+OL,4, V#"!##!#"!T/////////-,,.,,.,,./////////
+OL,5,MGS[[ ENNUSTEET SINUN ALUEELLEC169      
+OL,7,D---------------------------------------
+OL,8, GS[[ENNUSTEET C161                     
+OL,10, GS[[KARTTA    C166                     
+OL,12, GS[[ MERELL[  C168                     
+OL,13,                        V]S    `        
+OL,14, GS[[ ALUETAIN C169     V]S `  *   0    
+OL,15,                        V]S  !p||p"     
+OL,16,                        V]S$xt(   
+OL,17,                        T]              
+OL,18,                        T]W x}0         
+OL,19,                        T]Ql|}|$        
+OL,21,T]G   Tiedot: Ilmatieteen laitos        
+OL,22,W]DS[[KARTTA 166     S[[MERELL[  168    
+OL,23,A  P{{uutiset BUrheilu CTV Opas  FS{{   
+FL,101,300,500,160,1ff,1ff
+PN,16004
+SC,0004
+PS,8100
+RE,0
+CT,10,T
+OL,1,V |h4||4||4T]RppppppV`pp0(( (( Rpppppp  
+OL,2,VVn5~1j5T]RppppppVjup1'k5'k5Rpppppp  
+OL,3,V j5z5j5T]RppppppVhpz5w{5w{5Rpppppp  
+OL,4, V#"!##!#"!T/////////-,,.,,.,,./////////
+OL,5,MGTUOREMMAT S[[ ENNUSTEET KARTALLA C166 
+OL,7,D---------------------------------------
+OL,8, GS[[ENNUSTEET C161                     
+OL,10, GS[[KARTTA    C166                     
+OL,12, GS[[ MERELL[  C168                     
+OL,13,                        V]S    `        
+OL,14, GS[[ ALUETAIN C169     V]S `  *   0    
+OL,15,                        V]S  !p||p"     
+OL,16,                        V]S$xt(   
+OL,17,                        T]              
+OL,18,                        T]W x}0         
+OL,19,                        T]Ql|}|$        
+OL,21,T]G   Tiedot: Ilmatieteen laitos        
+OL,22,W]DS[[KARTTA 166     S[[MERELL[  168    
+OL,23,A  P{{uutiset BUrheilu CTV Opas  FS{{   
+FL,101,300,500,160,1ff,1ff

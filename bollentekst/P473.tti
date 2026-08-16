@@ -1,0 +1,63 @@
+PN,47301
+SC,0001
+CT,25,T
+PS,c008
+OL,0,        ECIMSBF473A1786804318
+OL,1,T]GROTTERDAM VERTREKKEN/DEPARTURES 1/2
+OL,2,T]G
+OL,3,V
+OL,3,V]]DAlmeria (LEI)DTransavia       E16:35
+OL,4,T
+OL,5,V
+OL,6,T
+OL,7,V
+OL,8,T
+OL,9,V
+OL,10,T
+OL,11,V
+OL,12,T
+OL,13,V
+OL,14,T
+OL,15,V
+OL,16,T
+OL,17,V
+OL,18,T
+OL,19,V
+OL,20,T
+OL,21,V
+OL,22,T
+OL,23,V
+OL,26,@kD@LpmkD@Ppn
+PN,47302
+SC,0002
+CT,25,T
+PS,c008
+OL,0,        ECIMSBF473A1786804318
+OL,1,T]GROTTERDAM AANKOMSTEN/ARRIVALS   2/2
+OL,2,T]G
+OL,3,V
+OL,3,V]]DIstanbul (SAW)DEnvirotainer ABE13:25
+OL,4,T
+OL,4,T]]FPula (PUY)FTransavia          E14:30
+OL,5,V
+OL,5,V]]DAmsterdam (AMS)DASL Airlines
+OL,6,T
+OL,6,T]]DAustralia                     E15:55
+OL,7,V
+OL,8,T
+OL,9,V
+OL,10,T
+OL,11,V
+OL,12,T
+OL,13,V
+OL,14,T
+OL,15,V
+OL,16,T
+OL,17,V
+OL,18,T
+OL,19,V
+OL,20,T
+OL,21,V
+OL,22,T
+OL,23,V
+OL,26,@kD@MpmkD@QpnlD@IpmlD@MpnmD@NpmmD@Rpn
